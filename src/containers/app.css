@@ -11,3 +11,8 @@
             font-weight: 200;
             color: #0ccac4;
         }
+        
+        .loadinglogo {
+                display: grid;
+                place-items: center;
+        }
